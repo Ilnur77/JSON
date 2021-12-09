@@ -1,0 +1,9 @@
+{
+	"Terminal Linux" : "Basic commands",
+	"Git" : "repository management",
+	"Postman" : "Testing API",
+	"HTTP" : "Methods, response codes,structure of HTTP requests",
+	"Charles, Fiddler" : "Interseption of web traffic",
+	"Browser Dev tools" : "Chrome, Firefox"
+}	
+
